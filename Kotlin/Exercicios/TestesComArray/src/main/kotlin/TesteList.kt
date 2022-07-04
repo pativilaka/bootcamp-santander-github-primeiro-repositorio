@@ -37,6 +37,6 @@ fun main(args: Array<String>) {
         .forEach { println(it) }
     println("************************************************")
 
-    listaDeFuncionarios.add
+
 
 }
